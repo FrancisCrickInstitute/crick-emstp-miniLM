@@ -1,2 +1,8 @@
-# crick-emstp-miniLM
-Control software for ultraLM and miniLM microscopes developed in the EM STP
+# miniLM
+
+Code to control ultraLM and miniLM systems. 
+
+## Dependencies
+Python 2.7
+
+Tested with [micro-manager 1.4](https://www.micro-manager.org/)
