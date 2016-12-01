@@ -1,5 +1,4 @@
 import os
-import pylab as pl
 import numpy as np
 import sys
 sys.path.append("C:\Program Files\Micro-Manager-1.4")
